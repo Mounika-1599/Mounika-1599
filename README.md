@@ -3,7 +3,7 @@
 - 🌱 I’m learning Spring boot and Microservices 
 - 💞️ I’m looking to collaborate on spring boot tech stack.
 - 📫 Ask me about Java, Java 8, spring boot, microservices, Git, Junit, postman.
-- 👉 How to reach me mounik.settigari100@gmail.com
+- 👉 How to reach me mounika.settigari100@gmail.com
 
 <!---
 Mounika-1599/Mounika-1599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
